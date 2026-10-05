@@ -1,0 +1,20 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Key = 0xab
+Plaintext = 0x48 ('H')
+-----------------------------
+Cycle | Keystream | Ciphertext
+   0  |   0xe1   |   0xa9
+   1  |   0x70   |   0x38
+   2  |   0x8c   |   0xc4
+   3  |   0x46   |   0x0e
+   4  |   0x23   |   0x6b
+   5  |   0xa5   |   0xed
+   6  |   0x52   |   0x1a
+   7  |   0x9d   |   0xd5
+   8  |   0xfa   |   0xb2
+   9  |   0xc9   |   0x81
+
+-- Decryption Test --
+Decrypted = 0xd9 ('Ù')
+$finish called at time : 156 ns : File "E:/Verilog/LFSR Stream Cipher/LFSR Stream Cipher.srcs/sim_1/new/tb_lfsr_cipher.v" Line 62

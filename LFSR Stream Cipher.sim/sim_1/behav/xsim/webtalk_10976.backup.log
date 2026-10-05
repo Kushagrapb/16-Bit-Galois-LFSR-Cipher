@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon May 11 02:27:35 2026
+# Process ID: 10976
+# Current directory: E:/Verilog/LFSR Stream Cipher/LFSR Stream Cipher.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/Verilog/LFSR Stream Cipher/LFSR Stream Cipher.sim/sim_1/behav/xsim/xsim.dir/tb_lfsr_cipher_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/Verilog/LFSR Stream Cipher/LFSR Stream Cipher.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/Verilog/LFSR Stream Cipher/LFSR Stream Cipher.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/Verilog/LFSR -notrace
+couldn't read file "E:/Verilog/LFSR": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon May 11 02:27:35 2026...

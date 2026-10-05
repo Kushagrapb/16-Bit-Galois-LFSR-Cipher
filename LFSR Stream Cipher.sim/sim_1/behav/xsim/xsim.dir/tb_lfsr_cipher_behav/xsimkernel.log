@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_lfsr_cipher_behav/xsimk.exe -simmode gui -wdb tb_lfsr_cipher_behav.wdb -simrunnum 0 -socket 53119
+Design successfully loaded
+Design Loading Memory Usage: 8720 KB (Peak: 8720 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 9816 KB (Peak: 9816 KB)
+Simulation CPU Usage: 77 ms
