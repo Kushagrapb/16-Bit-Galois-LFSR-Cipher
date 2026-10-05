@@ -1,2 +1,3 @@
 # 16-Bit-Galois-LFSR-Cipher
-Designed a parameterized 8-bit execution unit supporting 12 arithmetic, logic, and barrel-shift operations with signed-overflow and unsigned-carry flag logic. Validated all execution paths through Vivado synthesis and timing analysis; designed the block as a standalone RTL unit for processor-pipeline integration.
+Implemented a 16-bit Galois LFSR for pseudo-random keystream generation with a modular XOR encryption datapath. 
+Synthesized and verified the design in Xilinx Vivado using RTL simulation, waveform analysis, and post-synthesis schematic inspection.
